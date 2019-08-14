@@ -1,0 +1,10 @@
+#letter {
+  display: none;
+  border: solid gray;
+  padding: 20px;
+  height: 350px;
+  font-family: monospace;
+  background-image: url("../img/post.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
